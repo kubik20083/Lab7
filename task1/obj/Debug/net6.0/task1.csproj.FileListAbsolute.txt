@@ -1,0 +1,15 @@
+/home/kubik/Документы/Geekbrains/lab7/task1/bin/Debug/net6.0/task1
+/home/kubik/Документы/Geekbrains/lab7/task1/bin/Debug/net6.0/task1.deps.json
+/home/kubik/Документы/Geekbrains/lab7/task1/bin/Debug/net6.0/task1.runtimeconfig.json
+/home/kubik/Документы/Geekbrains/lab7/task1/bin/Debug/net6.0/task1.dll
+/home/kubik/Документы/Geekbrains/lab7/task1/bin/Debug/net6.0/task1.pdb
+/home/kubik/Документы/Geekbrains/lab7/task1/obj/Debug/net6.0/task1.csproj.AssemblyReference.cache
+/home/kubik/Документы/Geekbrains/lab7/task1/obj/Debug/net6.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kubik/Документы/Geekbrains/lab7/task1/obj/Debug/net6.0/task1.AssemblyInfoInputs.cache
+/home/kubik/Документы/Geekbrains/lab7/task1/obj/Debug/net6.0/task1.AssemblyInfo.cs
+/home/kubik/Документы/Geekbrains/lab7/task1/obj/Debug/net6.0/task1.csproj.CoreCompileInputs.cache
+/home/kubik/Документы/Geekbrains/lab7/task1/obj/Debug/net6.0/task1.dll
+/home/kubik/Документы/Geekbrains/lab7/task1/obj/Debug/net6.0/refint/task1.dll
+/home/kubik/Документы/Geekbrains/lab7/task1/obj/Debug/net6.0/task1.pdb
+/home/kubik/Документы/Geekbrains/lab7/task1/obj/Debug/net6.0/task1.genruntimeconfig.cache
+/home/kubik/Документы/Geekbrains/lab7/task1/obj/Debug/net6.0/ref/task1.dll
